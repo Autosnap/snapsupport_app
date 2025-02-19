@@ -5,7 +5,7 @@ export const mockCases: Case[] = [
     id: 1,
     caseNumber: "CASE-2024-001",
     title: "Website Navigation Issue",
-    description: "Users reporting difficulty accessing product pages",
+    description: "Users reporting difficulty accessing vehicle pages",
     status: "open",
     vendors: [
       { vendor: "Dealer.com", contact: "Michael Smith" },
@@ -21,7 +21,7 @@ export const mockCases: Case[] = [
         id: 1,
         type: "email",
         from: "john.doe@example.com",
-        message: "I can't access the product pages on the website. Getting a 404 error.",
+        message: "I can't access the vehicle pages on the website. Getting a 404 error.",
         timestamp: "2024-02-15T10:30:00Z"
       },
       {
