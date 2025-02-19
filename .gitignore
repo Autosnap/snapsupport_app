@@ -1,7 +1,1 @@
-# Ignore node_modules and build files
-node_modules/
-dist/
-.cache/
-.vscode/
-.DS_Store
-.env
+.vercel
